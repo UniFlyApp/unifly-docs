@@ -1,18 +1,20 @@
+<!-- # Summary -->
 # Welcome to UniFly
 
 [Introduction](./introduction.md)
-[Help](./help.md)
 
-# First Time User Guide
-
-- [Getting Started with UniFly](starting/README.md)
-    - [Client](starting/client/README.md)
-        - [Installing the Client](starting/client/install.md)
-        - [Setting up the Client](starting/client/setup.md)
-    - [Dashboard](starting/dashboard/README.md)
-        - [Linking your UniFly Dashboard account](starting/dashboard/linking.md)
+# User Guide
+- [Client](guide/client/README.md)
+    - [Installing the Client](guide/client/install.md)
+    - [Installing model matching](guide/client/model-matching.md)
+    - [Setting up the Client](guide/client/setup.md)
+    - [(Optional) Installing terrain probe](guide/client/probe.md)
+- [Dashboard](guide/dashboard/README.md)
+    - [Linking your UniFly Dashboard account](guide/dashboard/linking.md)
 
 # Advanced Guides
 
 - [Model Matching](modelmatching/README.md)
-- [Connecting as ATC](atc/README.md)
+- [ATC Adapter](atc/README.md)
+    - [Setting up Sector Files](atc/sector-files.md)
+    - [Connecting ATC to UniFly](atc/unifly-adapter.md)

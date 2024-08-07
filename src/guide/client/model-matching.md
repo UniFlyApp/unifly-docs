@@ -1,0 +1,2 @@
+# Installing model matching
+In order for UniFly to show other pilots in your simulator, you must install a set of models to see them in. By default, UniFly comes with support for the FLAi model set for P3D/FSX, and FSLTL for MSFS. You are advised to install the model set for your simulator. You can find individual documentation on how to do this published by your chosen model set.
