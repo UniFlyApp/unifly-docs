@@ -1,12 +1,10 @@
 # Introduction
 
-UniFly is a cross simulator multiplayer platform allowing you and your friends to see one another from different sims. Fly group flights, bush missions, landing tournaments and more with your friends.
+UniFly is a cross simulator multiplayer platform allowing you and your friends to see one another from different flight sims. Fly group flights, bush missions, landing tournaments and more with your friends.
 
-Checkout the [UniFly Map](https://map.unifly.gg/) to see who's already online.
-
-UniFly additionally provides flight tracking and leaderboards to communities using UniFly via the [UniFly Dashboard](https://dashboard.unifly.gg)
-
-Please join our [discord](https://unifly.gg/discord) if need assistance.
+Checkout our
+- [Live Map](https://map.unifly.gg/) to see live traffic
+- [Discord](https://unifly.gg/discord) to join our community, get update notifications and receive help from our staff
 
 ## Supported Simulators
 Simulators:
@@ -14,7 +12,8 @@ Simulators:
 - P3Dv4
 - P3Dv5
 - P3Dv6
-- MSFS
+- MSFS 2020
+- MSFS 2024
 
 Air Traffic Control clients:
 - EuroScope
