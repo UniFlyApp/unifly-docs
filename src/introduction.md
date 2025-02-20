@@ -23,6 +23,9 @@ Coming soon:
 - XPlane 11
 - XPlane 12
 
+## Simulated Weather
+For best results in terms of UniFly's ability to match your cruising flight levels, please use Real Weather on the UniFly network.
+
 ## Development & Funding
 UniFly's costs are entirely funded by donators and our own staff team. If you'd like to become one of our appreciated donators, please join our discord for a full rundown on our operating costs.
 
