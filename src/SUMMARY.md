@@ -8,7 +8,6 @@
     - [Installing the Client](guide/client/install.md)
     - [Installing model matching](guide/client/model-matching.md)
     - [Setting up the Client](guide/client/setup.md)
-    - [(Optional) Installing terrain probe](guide/client/probe.md)
 
 # Advanced Guides
 
