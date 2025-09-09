@@ -4,10 +4,9 @@
 [Introduction](./introduction.md)
 
 # User Guide
-- [Client](guide/client/README.md)
-    - [Installing the Client](guide/client/install.md)
-    - [Installing model matching](guide/client/model-matching.md)
-    - [Setting up the Client](guide/client/setup.md)
+- [Client](guide/client/install.md)
+- [Modelmatching: MSFS, P3D, FSX](guide/simconnect/install.md)
+- [XPlane](guide/xplane/install.md)
 
 # Advanced Guides
 
