@@ -38,6 +38,6 @@ Now, whenever you want to connect, follow these steps:
 9. Populate the remaining details and press Connect
 ![EuroScope Connection Dialogue](./euroscope-connection-dialogue.png)
 
-# Caveats
+## Caveats
 - Flightplans are inserted into the ATC client's every 20 seconds. This unfortunately means that any modifications you make to a pilots flightplan inside the ATC software will be overwritten every 20 seconds.
 - UniFly does not yet support Squawk codes
