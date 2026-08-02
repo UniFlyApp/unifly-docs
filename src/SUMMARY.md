@@ -4,9 +4,7 @@
 [Introduction](./introduction.md)
 
 # User Guide
-- [Client](guide/client/install.md)
-- [Modelmatching: MSFS, P3D, FSX](guide/simconnect/install.md)
-- [XPlane](guide/xplane/install.md)
+- [Installation](guide/installation/installation.md)
 
 # Advanced Guides
 

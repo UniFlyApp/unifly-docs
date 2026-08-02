@@ -2,8 +2,7 @@
 
 UniFly is a cross simulator multiplayer platform allowing you and your friends to see one another from different flight sims. Fly group flights, bush missions, landing tournaments and more with your friends.
 
-Checkout our
-- [Live Map](https://map.unifly.gg/) to see live traffic
+- [Live map](https://map.unifly.gg/) shows currently connected UniFly traffic on an interactive world map
 - [Discord](https://unifly.gg/discord) to join our community, get update notifications and receive help from our staff
 
 ## Supported Simulators
@@ -20,11 +19,6 @@ Simulators:
 Air Traffic Control clients:
 - EuroScope
 - VRC
-
-## Simulated Weather
-For best results in terms of UniFly's ability to match your cruising flight levels, please use Real Weather on the UniFly network.
-
-In MSFS2024, selecting non-real time will also select non-real weather, which does result in altitude mismatch on UniFly. Please use real time and real weather.
 
 ## Development & Funding
 UniFly's costs are entirely funded by donators and our own staff team. If you'd like to become one of our appreciated donators, please join our discord for a full rundown on our operating costs.
