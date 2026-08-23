@@ -30,12 +30,13 @@ These can be easily installed through the FlyByWire launcher.
 > Note that you only need to install the `Base Models` package, and not their additional `Injector` software which uses the modelset for AI traffic.
 
 ### (X-Plane Only!) Bluebell Models
-
-See below to first install the UniFly-XPLM plugin!
+Before installing a CSL model library, you'll need to install the `UniFly-XPLM` plugin. See below for instructions.
 
 The models need to be installed inside of `X-Plane 11/Resources/plugins/UniFly-XPLM/Resources/CSL`.
 
 > Note that this installation is identical to that of the `xPilot` software, if you're familiar with that.
+
+> Lots of X-Plane plugins require a CSL model library installation. To avoid duplicating the same models in several different plugins' folders, you can set up a symbolic folder link from UniFly's CSL folder to that of another addon's. `mklink /d "C:\Path\To\X-Plane 11\Resources\plugins\UniFly-XPLM\Resources\CSL\models" "C:\Path\To\CSL\folder\of\model\library"`
 
 #### Installing the UniFly-XPLM plugin 
 
