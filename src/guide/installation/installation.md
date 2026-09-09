@@ -36,7 +36,7 @@ The models need to be installed inside of `X-Plane 11/Resources/plugins/UniFly-X
 
 > Note that this installation is identical to that of the `xPilot` software, if you're familiar with that.
 
-> Lots of X-Plane plugins require a CSL model library installation. To avoid duplicating the same models in several different plugins' folders, you can set up a symbolic folder link from UniFly's CSL folder to that of another addon's. `mklink /d "C:\Path\To\X-Plane 11\Resources\plugins\UniFly-XPLM\Resources\CSL\models" "C:\Path\To\CSL\folder\of\model\library"`
+> Lots of X-Plane plugins require a CSL model library installation. To avoid duplicating the same models in several different plugins' folders, you can set up a symbolic folder link from UniFly's CSL folder to that of another addon's. E.g. `mklink /d "D:\X-Plane 12\Resources\plugins\UniFly-XPLM\Resources\CSL\ivao-link" "D:\X-Plane 12\Resources\plugins\IVAO_CSL\CSL"`
 
 #### Installing the UniFly-XPLM plugin 
 
