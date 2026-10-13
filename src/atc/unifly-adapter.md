@@ -2,9 +2,7 @@
 
 UniFly ATC provides an adapter between our network and popular Air Traffic Control software EuroScope and VRC. This guide demonstrates how to connect UniFly to these software.
 
-Unlike older versions of the ATC Adapter, the adapter is now entirely included within the unifly client executable - there is no seperate download for the ATC adapter.
-
-The adapter works by creating a local network server to which EuroScope and VRC listen in to. As such, it is necessary to configure EuroScope and VRC to connect to this local server rather than to VATSIM.
+The adapter works by creating a local network server for EuroScope and VRC to listen in to. We will configure EuroScope / VRC to listen into this local network rather than the VATSIM network.
 
 We do not offer assistance with the installation and setup of sector files within your chosen ATC client. Please consult your ATC client's own documentation for this.
 
@@ -26,17 +24,19 @@ Now, whenever you want to connect, follow these steps:
 
 ## Setting up for EuroScope
 
-1. Start the UniFly Client and press connect. It will detect that EuroScope is open and start up the adapter server on your local network. You must press connect on UniFly Client BEFORE you connect on Euroscope
-2. Open EuroScope
+1. Make sure EuroScope is already open, but not yet connected.
 3. Make sure `Show Simulated Traffic` is disabled in Euroscope under the `Quick SET` menu
 ![EuroScope Show Simulated Traffic](./euroscope-simulated-traffic.png)
-4. Open the Connection dialogue with the `Connect` button in the top left of EuroScope
-5. Set `Select connection mode` to `Direct to Vatsim` (Don't worry, we're not connecting to Vatsim)
+2. Start the UniFly app and press Connect on the UniFly App. You won't need to fill in a flightplan with UniFly in order to connect as Air Traffic Control. UniFly should detect that it's connecting to EuroScope and start up the adapter on your local network.
+3. Now we can open the Connection dialogue on EuroScope in the top left corner.
+5. Set `Select connection mode` to `Direct to Vatsim` (Don't worry, we're not actually connecting to Vatsim)
 6. Set `Server` to `127.0.0.1`. (Although this field looks like a dropdown box, it will allow you to type into it.)
 7. Beneath `Server`, untick the `Connect to VATSIM` checkbox
-8. You must fill the certificate ID and password inputs with random numbers. If you leave them empty it will not allow you to connect
-9. Populate the remaining details and press Connect
+8. You must fill the certificate ID and password inputs with random numbers. If you leave them empty it will not allow you to connect.
+9. Fill in the remaining details: Callsign, facility, rating, real name. 
 ![EuroScope Connection Dialogue](./euroscope-connection-dialogue.png)
+
+> If you ever disconncet EuroScope from UniFly and reconnect it, then EuroScope will helpfully try to remember all of the aircraft from the previous connection. This means that if you change the UniFly server you're connecting to and reconnect EuroScope, then EuroScope might still remember pilots on the server you started with. To get around this you can fully shutdown and re-open EuroScope.
 
 ## Caveats
 - Flightplans are inserted into the ATC client's every 20 seconds. This unfortunately means that any modifications you make to a pilots flightplan inside the ATC software will be overwritten every 20 seconds.
