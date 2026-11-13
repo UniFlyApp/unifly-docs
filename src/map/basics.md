@@ -42,6 +42,13 @@ pilots are connected but still in their sim's menus.
 
 Press **/** to open the list and search.
 
+### Hubs
+
+Each UniFly server you can pick in the client is a **hub**, and pilots on every hub show on the one map. The **Hub**
+drop-down at the top of the map shows just one hub's pilots (or all of them), and ⓘ beside it opens that hub's page:
+how many pilots fly on it, this week's flights and hours, its top pilots, popular routes, best landings and which
+sims its pilots use. Hubs also have their own [leaderboard](flights-pilots.md#leaderboards), the hub league.
+
 ### Aircraft on the map
 
 - **Labels** show the callsign and altitude, with more detail if you want it (Preferences → Aircraft → Label detail).

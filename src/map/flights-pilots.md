@@ -59,7 +59,20 @@ UniFly records each flight automatically. As well as take-offs and landings, the
 
 ## Landings
 
-Every landing gets a rate and a grade, shown on the aircraft's label for a minute after touchdown. The logbook keeps:
+Every landing gets a rate and a grade, shown on the aircraft's label for a minute after touchdown:
+
+| Grade | Touchdown rate |
+|---|---|
+| Butter | 0 to -120 fpm |
+| Smooth | -121 to -300 fpm |
+| Firm | -301 to -500 fpm |
+| Hard | -501 to -800 fpm |
+| Very hard | Harder than -800 fpm |
+
+Some badges ask for more than a Butter grade: the *Butter* badges need -60 fpm or gentler, and *Kiss landing* -10 fpm
+or gentler.
+
+The logbook keeps:
 
 - **Landing scorecard:** where the wheels touched the runway (distance down it, touchdown zone, distance from the
   centreline).
@@ -139,7 +152,7 @@ board, for today, this week, this month or all time. *See all ›* opens a whole
 - **Smoothest landings** (today, the last 7 days or the latest), and landing boards for one airport or one aircraft
   type. Landings stay on the board for 7 days and in the logbook for good.
 - **Most flights, most hours and most distance.**
-- **Hub league:** UniFly's hubs ranked by hours flown.
+- **Hub league:** UniFly's [hubs](basics.md#hubs) ranked by hours flown this week, this month or last month.
 - **Badge points:** 1 a badge, more for bronze, silver, gold, special flights and hidden badges. Mishaps don't count.
 - **Pilot of the day, week and month:** most hours flown. The pilot of the month gets a gold badge.
 - **The week so far:** a recap of the week on UniFly.

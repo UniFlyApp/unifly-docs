@@ -19,6 +19,7 @@ These pages cover what the map can do:
   Twitch chat bot.
 - [Virtual airlines & hangars](airlines-hangars.md): keeping your own aircraft, and starting or joining a virtual
   airline.
+- [Troubleshooting & FAQ](faq.md): when something doesn't show, count or look right.
 
 > The map is updated often. When a new version comes out a bar at the top of the map offers a reload, and
 > **What's new** (in Preferences → About) lists what's changed.
@@ -36,3 +37,16 @@ Most of the map works without an account. Sign in with Discord from the 👤 but
 
 Only your Discord ID (kept scrambled) and your name are used, never your email or your servers. Signing up also adds
 you to the UniFly Discord (Discord asks first). You can delete your account at any time from its settings.
+
+## Privacy and opting out
+
+UniFly is a shared, public map, so everything about your flying on it is public: your position while you're
+connected, your pilot page, logbook, badges and landing rates. Every flight is kept in your logbook for good.
+
+- **Your account** holds only a scrambled copy of your Discord ID, your Discord name, the pilot you're linked to and
+  the overlays you save. Deleting your account removes those and stops your saved overlay links. Your pilot page and
+  flights stay, as they do for everyone who flies on UniFly.
+- **Opting out:** if you'd rather your flying wasn't recorded at all, ask the UniFly Team in the
+  [Discord](https://unifly.gg/discord). You'll still show live on the map while you're connected (that's UniFly
+  itself), but your take-offs, landings and trails stop being recorded, what's already recorded is removed, and you're
+  left off the leaderboards, highlights and Discord posts.

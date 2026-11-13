@@ -16,6 +16,18 @@ registration, with its type, an optional name and livery, and its home base. You
 - A pilot's aircraft are on the **Hangar** tab of their pilot page, and an airport's **Traffic** tab lists the
   aircraft parked there.
 
+> **Your hangar and a virtual airline don't mix.** Each flight belongs to one aircraft: either one of yours or one of
+> an airline's, never both.
+>
+> - A flight that counts for your [virtual airline](#flying-for-your-airline) is always flown in the airline's
+>   aircraft, even if you've chosen *I'm flying* for one of your own. Your pick isn't lost: it carries on to your next
+>   flight that isn't for the airline.
+> - A VA flight stays with the airline's aircraft, so it can't be moved onto one of your own aircraft in your logbook
+>   afterwards.
+> - Your hangar aircraft can't fly for an airline or be moved into its fleet. The airline gets its own aircraft
+>   (from the 🏪 Aircraft market).
+> - Registrations are unique across UniFly, so the same registration can't be in your hangar and in an airline's fleet.
+
 ## Virtual airlines (alpha)
 
 > Virtual airlines are in **alpha**. Things will change as we go, and prices and balances may be rebalanced, but

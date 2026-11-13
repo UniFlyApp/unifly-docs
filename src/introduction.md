@@ -2,7 +2,7 @@
 
 UniFly is a cross simulator multiplayer platform allowing you and your friends to see one another from different flight sims. Fly group flights, bush missions, landing tournaments and more with your friends.
 
-- [Live map](https://map.unifly.gg/) shows currently connected UniFly traffic on an interactive world map, with logbooks, badges, events, virtual airlines and stream overlays. See the [Live Map guide](map/README.md) for everything it can do
+- [Live map](https://map.unifly.gg/) shows currently connected UniFly traffic on an interactive world map, with logbooks, badges, events, virtual airlines and stream overlays. See the [Live Map guide](map/index.html) for everything it can do
 - [Discord](https://unifly.gg/discord) to join our community, get update notifications and receive help from our staff
 
 ## Supported Simulators

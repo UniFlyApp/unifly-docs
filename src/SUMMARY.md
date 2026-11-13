@@ -13,6 +13,7 @@
     - [Events, tours & community](map/community.md)
     - [Streaming with UniFly](map/streaming.md)
     - [Virtual airlines & hangars](map/airlines-hangars.md)
+    - [Troubleshooting & FAQ](map/faq.md)
 
 # Advanced Guides
 
