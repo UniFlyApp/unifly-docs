@@ -75,7 +75,7 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
 
 - 🏙️ **Tourist** *(1 pt)*: Land at the destination of the week.
 
-  Every week (Monday to Sunday, UTC) the map features a city or region. Land at any of its airports that week, flown in from an airport 50 nm or more away, for a passport stamp (circuits there don't count). It's not a race: everyone who visits gets one.
+  Every week (Monday to Sunday, UTC) the map features a city or region. Land at any of its airports that week, having flown 50 nm or more from an airport at least 30 nm away, for a passport stamp (circuits there don't count). It's not a race: everyone who visits gets one.
 - 📸 **Sightseer** *(bronze, 2 pts)*: Collect 5 passport stamps.
 - 🎒 **Seasoned traveller** *(silver, 4 pts)*: Collect 15 passport stamps.
 - 🏛️ **Well travelled** *(gold, 8 pts)*: Collect 30 passport stamps.
@@ -100,7 +100,7 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
 - 🎓 **Circuit trainer** *(1 pt)*: Fly 5 circuits in one session (each within 10 minutes of the last).
 - 📏 **Consistent** *(1 pt)*: Land 3 circuits in a row within 50 fpm of each other.
 
-  Three circuits one after another, with all three landing rates within 50 fpm of each other (e.g. -120, -140 and -165 fpm). X-Plane landings have no rate yet, so they can't count.
+  Three circuits one after another, with all three landing rates within 50 fpm of each other (e.g. -120, -140 and -165 fpm).
 - 🔁 **Round trip** *(1 pt)*: Fly out and back to the same airport on the same day (UTC).
 
   For example London to Paris and back to London, both on the same UTC day.
