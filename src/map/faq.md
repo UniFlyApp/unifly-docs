@@ -17,8 +17,6 @@
 - **Sim rate:** landings flown with time acceleration on aren't counted, and sped-up flights don't count for the
   long-flight badges.
 - **Slewing and teleports:** no take-off or landing is logged from moving the aircraft in slew mode or teleporting.
-- **X-Plane:** X-Plane's readings can't yet be trusted for a landing rate, so X-Plane landings are logged without one
-  for now.
 - **Opted out:** pilots who've opted out of recording don't get landings recorded. See
   [Privacy and opting out](index.html#privacy-and-opting-out).
 
@@ -61,7 +59,9 @@ If the map picked the wrong one of two aircraft, you can switch it for 24 hours 
 
 ## My flight went to my airline, not my own aircraft
 
-That's by design: a flight that counts for your airline is always flown in the airline's aircraft. See
+That's by design: a flight under the callsign of an airline you're a member of is always on the airline's aircraft,
+and never logged on one of your own, even if it didn't count for the airline. To fly one of your own aircraft, use a
+callsign that isn't your airline's. See
 [Your hangar and a virtual airline don't mix](airlines-hangars.md#your-hangar).
 
 ## My stream overlay is blank or out of date

@@ -19,9 +19,11 @@ registration, with its type, an optional name and livery, and its home base. You
 > **Your hangar and a virtual airline don't mix.** Each flight belongs to one aircraft: either one of yours or one of
 > an airline's, never both.
 >
-> - A flight that counts for your [virtual airline](#flying-for-your-airline) is always flown in the airline's
->   aircraft, even if you've chosen *I'm flying* for one of your own. Your pick isn't lost: it carries on to your next
->   flight that isn't for the airline.
+> - Fly with the callsign of an airline you're a member of and the flight is on the airline's aircraft. Your flight
+>   panel doesn't offer your own aircraft (*I'm flying*): it says the flight's on the airline's aircraft instead.
+> - A flight like that is **never** logged on one of your own aircraft, even if it doesn't count for the airline (no
+>   aircraft of that type parked there, say), and even if you'd already chosen *I'm flying* for one of yours. Your pick
+>   isn't lost: it carries on to your next flight under a callsign that isn't your airline's.
 > - A VA flight stays with the airline's aircraft, so it can't be moved onto one of your own aircraft in your logbook
 >   afterwards.
 > - Your hangar aircraft can't fly for an airline or be moved into its fleet. The airline gets its own aircraft
@@ -69,7 +71,8 @@ If there's no aircraft of that type there, the flight doesn't count for the airl
 - **Fly this one:** with more than one suitable aircraft at an airport, tap 🎟 *Fly this one* on its fleet card to
   pick it for your next flight.
 - **Timetable:** members can book upcoming timetable flights. A booked flight is yours, and its aircraft is picked for
-  you an hour before departure.
+  you an hour before departure. A timetable flight being flown right now shows ✈️ *In the air*, with who's flying it,
+  how far along it is, the time to go and *Show on the map*.
 - **Any callsign:** after *Fly this one* or a booking, you can connect as any callsign (to get another airline's
   livery in your sim) and the flight still counts.
 - **Ferry flights:** a flight number from 9900 to 9999 is a ferry. It moves the aircraft but doesn't earn. Aircraft
@@ -80,7 +83,8 @@ If there's no aircraft of that type there, the flight doesn't count for the airl
 
 Airlines earn and spend UniFly credits (UC):
 
-- **Money in:** passenger fares and cargo on each flight, contracts, and prizes.
+- **Money in:** passenger fares and cargo on each flight, onboard sales (food, drinks and duty free, which matter
+  most to Budget airlines; Premium airlines include it in the ticket), paid Wi-Fi, contracts, and prizes.
 - **Money out:** fuel (which follows the real jet fuel price, and is cheaper at big hubs), crew and upkeep, airport
   and passenger charges, landing fees, leases, maintenance checks, base staff and the Authority's tax.
 - **Each flight's report** shows its money line by line, its fuel burned, and a passenger review.
@@ -95,6 +99,9 @@ What owners and staff can do:
 - **Bases, routes and fares:** open bases, plan routes (the route planner estimates the profit for each aircraft type),
   and set fares per route and cabin (Saver, Standard or Premium). Rivals' fares are shown. Lay out cabins and cargo
   holds, and pick a service level (Budget, Standard or Premium).
+- **Wi-Fi:** fit it to an aircraft from the Fleet tab (a one-off cost by size, then a monthly fee). In Settings, make
+  it paid (passengers buy it on flights over an hour; First is always free) or free for everyone (no takings, but better
+  reviews and passengers coming back on the route). Long-haul passengers notice when there's none.
 - **Marketing:** campaigns to grow the airline's name.
 - **Contracts:** 📋 one-off charters and cargo jobs, with the pay on top of the flight's own earnings.
 - **Fuel price locks** for a few weeks, and **loans** from the UniFly Authority.
@@ -104,6 +111,10 @@ What owners and staff can do:
 What helps an airline do well: smooth landings, being on time, flying routes regularly (loyal passengers), connecting
 passengers at your bases, and a good **safety grade** (A to D, from the last 90 days' landings). Long delays mean paying
 passengers compensation.
+
+When a cabin's full, or the aircraft doesn't have that cabin, passengers who'd have been turned away are **upgraded
+free** to an empty seat in the cabin above, and pay the fare they booked. The flight's report says how many were
+upgraded.
 
 ### The UniFly Authority
 
