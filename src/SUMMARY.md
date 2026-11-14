@@ -10,6 +10,7 @@
 - [Live Map](map/README.md)
     - [Using the map](map/basics.md)
     - [Flights, pilots & badges](map/flights-pilots.md)
+        - [Every badge](map/badges.md)
     - [Events, tours & community](map/community.md)
     - [Streaming with UniFly](map/streaming.md)
     - [Virtual airlines & hangars](map/airlines-hangars.md)

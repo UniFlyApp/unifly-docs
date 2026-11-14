@@ -24,10 +24,13 @@ If a rate looks wrong, use **🚩 Report** on the flight (live or in your logboo
 
 ## An airport didn't count towards my badge
 
-Airports, countries and continents only count when you land there having flown in from at least 50 nm away.
-Circuits, short hops from the airport next door, take-offs, and teleported or slewed flights don't count. Famous
-airports like Lukla, Saba and Courchevel count from any distance, as long as you flew in from somewhere else. The same
-rule applies to the destination of the week's passport stamp.
+Airports, countries and continents only count when you land there having flown at least 50 nm, from an airport at
+least 30 nm away. So a short hop across water that takes the long way round counts, but circuits, hopping over from
+the airport next door, take-offs, and teleported or slewed flights don't. Famous airports like Lukla, Saba and
+Courchevel count from any distance, as long as you flew in from somewhere else. The same rule applies to the
+destination of the week's passport stamp.
+
+If one of your flights was flagged for a closer look, it counts once the UniFly Team has checked and passed it.
 
 ## My flight was split in two, or ended early
 

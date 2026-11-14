@@ -13,6 +13,7 @@ These pages cover what the map can do:
   preferences and keyboard shortcuts.
 - [Flights, pilots & badges](flights-pilots.md): the flight panel, timelines, landing rates, logbooks, pilot pages,
   ranks, badges, challenges and leaderboards.
+- [Every badge](badges.md): each badge, how to earn it and what counts.
 - [Events, tours & community](community.md): events, flight parties, group flights, tours, the destination of the week
   and the UniFly Discord bot.
 - [Streaming with UniFly](streaming.md): stream overlays for OBS, showing as live on Twitch, and UniFly Dispatch, our

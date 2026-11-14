@@ -115,7 +115,8 @@ does the same in that browser.
 
 ## Badges
 
-There are well over a hundred badges, for things like:
+There are well over a hundred badges. [Every badge](badges.md) lists each one, with how to earn it and what
+counts. They cover things like:
 
 - **Landings:** butter landings, streaks of soft landings, crosswinds, gusts, low visibility, difficult airports.
 - **Distance and time:** long flights, ocean crossings, hours flown, night flying, the all-nighter.
@@ -131,8 +132,8 @@ Many come in bronze, silver and gold. Tap a badge to see how to earn it, how rar
 who earned it first, your progress, and the flight that earned it. The **badges window** (from the 👤 menu) lists them
 all by group, with *Yours* and *Still to get*.
 
-An airport only counts towards the places badges if you land there having flown in from at least 50 nm away (circuits,
-hops from next door, teleports and slewing don't count). The famous airports like Lukla and Saba count from any
+An airport only counts towards the places badges if you land there having flown at least 50 nm, from an airport at least
+30 nm away (circuits, hops from next door, teleports and slewing don't count). The famous airports like Lukla and Saba count from any
 distance.
 
 ## Challenges and goals

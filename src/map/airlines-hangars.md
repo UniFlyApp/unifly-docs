@@ -47,13 +47,15 @@ a startup loan instead. A checklist on its Overview walks you through the first 
 flight, a second pilot and your first flights.
 
 An airline using a real airline's name or code is only visible to its owner until the UniFly Team has seen proof the
-real airline allows it.
+real airline allows it. While it's waiting, the owner can withdraw it and start again. Airline names and codes (like
+flight party names, event requests and registrations) are checked for rude words.
 
 ### Joining and roles
 
 Airlines are either open (join straight away) or by application (the owner or staff accept or decline). Roles are
-owner, staff and member, and owners can create positions with their own powers (looking after the money, marketing
-and so on). Every pilot builds a **career** with their airline: flights, hours, passengers, on-time record, landings
+owner, staff and member, and owners can create positions with their own powers, such as looking after the money,
+Marketing (campaigns and fares) or Timetable (scheduled flights), so an airline can have a Route Planner and a separate
+Head of Marketing. Every pilot builds a **career** with their airline: flights, hours, passengers, on-time record, landings
 and a rank by hours flown for it.
 
 If an owner hasn't been on UniFly for 180 days, the staff can take the airline over.
@@ -76,7 +78,8 @@ If there's no aircraft of that type there, the flight doesn't count for the airl
 - **Any callsign:** after *Fly this one* or a booking, you can connect as any callsign (to get another airline's
   livery in your sim) and the flight still counts.
 - **Ferry flights:** a flight number from 9900 to 9999 is a ferry. It moves the aircraft but doesn't earn. Aircraft
-  away from home are listed under *Needs ferrying*.
+  away from home are listed under *Needs ferrying*. Owners and staff can also 🚚 **Move** an aircraft without flying it,
+  but a hired crew costs more than flying it yourself, and the price is shown before anything's charged.
 - **Wrong aircraft?** For 24 hours after landing, a flight can be switched to the other aircraft it could have been.
 
 ### Running the business
@@ -85,7 +88,7 @@ Airlines earn and spend UniFly credits (UC):
 
 - **Money in:** passenger fares and cargo on each flight, onboard sales (food, drinks and duty free, which matter
   most to Budget airlines; Premium airlines include it in the ticket), paid Wi-Fi, contracts, and prizes.
-- **Money out:** fuel (which follows the real jet fuel price, and is cheaper at big hubs), crew and upkeep, airport
+- **Money out:** fuel (based on the real jet fuel price, changing each Monday, and cheaper at big hubs), crew and upkeep, airport
   and passenger charges, landing fees, leases, maintenance checks, base staff and the Authority's tax.
 - **Each flight's report** shows its money line by line, its fuel burned, and a passenger review.
 
@@ -103,7 +106,11 @@ What owners and staff can do:
   it paid (passengers buy it on flights over an hour; First is always free) or free for everyone (no takings, but better
   reviews and passengers coming back on the route). Long-haul passengers notice when there's none.
 - **Marketing:** campaigns to grow the airline's name.
-- **Contracts:** 📋 one-off charters and cargo jobs, with the pay on top of the flight's own earnings.
+- **Contracts:** 📋 charters and cargo jobs, with the pay on top of the flight's own earnings. The board has jobs in four
+  sizes: Light (bizjets and turboprops, such as an urgent spare part or a medical team), Small (regional aircraft),
+  Medium (narrowbodies) and Large (widebodies). *Fits my fleet* shows only the jobs your aircraft have the seats or
+  payload and range for. Each size also has a **regular contract**: fly a route a set number of times within one to
+  three weeks, paid each flight, with a bonus for flying them all. Unclaimed jobs leave the board after a couple of days.
 - **Fuel price locks** for a few weeks, and **loans** from the UniFly Authority.
 - **Wet leases:** hire another airline's aircraft with its crew, or offer yours.
 - **Mergers and takeovers:** two airlines can become one, with the UniFly Team's approval.
@@ -128,15 +135,26 @@ relaunch it, with the same code and members.
 
 ### The airline's page
 
-- **Overview:** standing (safety grade and value), a pinned notice for pilots, *Needs doing* for owners and staff,
-  news, routes on the map, the route planner, badges, passenger reviews and the weekly report (which can also go to
-  your own Discord via a webhook).
+- **Overview:** "Fly for…" near the top, its standing (safety grade and value), a pinned notice for pilots, *Needs
+  doing* for owners and staff, the latest news and busiest routes, badges, passenger reviews and the weekly report
+  (which can also go to your own Discord via a webhook).
+- **News:** everything that's happened at the airline.
+- **Routes:** every route it flies, with its distance and how well known the airline is on it, the button to show them
+  on the map, and the route planner.
 - **Fleet:** each aircraft as a card, with where it is, its hours, checks, cabin and range, and a progress bar while
   it's flying.
-- **Pilots, Flights, Money, Marketing and Settings** tabs, depending on your role.
+- **Pilots:** a table of each pilot's role, rank, flights, hours, last flight and when they joined. Tap a column to sort
+  it.
+- **Money:** this month in and out, and **who earns what**: each aircraft's and pilot's flights, hours and earnings, all
+  time or the last 30 days.
+- **Flights, Marketing and Settings**, depending on your role.
+
+An airline's **value** is its cash and the aircraft it owns, less what it owes, plus six months of its recent profit.
+That profit counts the monthly bills (leases, insurance, staff and bases), but not grants, loans or aircraft bought or
+sold.
 
 ### The leaderboard
 
 🏆 in the 🏢 window ranks airlines over the last 30 days by flights, hours, passengers, cargo, on-time, smooth landings,
-pilots flying, value and safety. Each month the top three are named **airline of the month**, win a prize from the
-Authority, and are posted to Discord. Airlines also earn their own badges.
+pilots flying, value and safety. Each month the top three by hours flown (then flights) are named **airline of the
+month**, win a prize from the Authority, and are posted to Discord. Airlines also earn their own badges.

@@ -51,7 +51,7 @@ Each week (Monday to Sunday, UTC) there's a city or region to fly to, such as Lo
 Innsbruck. Its guide lists the airports, a few words about the place, who's been this week, and next week's
 destination. The area is shaded on the map. *Hide for this week* tucks it into the 📍 corner button.
 
-Land there during its week (having flown in from at least 50 nm away) for a **passport stamp**. Stamps add up to the
+Land there during its week (having flown at least 50 nm, from an airport at least 30 nm away) for a **passport stamp**. Stamps add up to the
 *Tourist*, *Sightseer*, *Seasoned traveller* and *Well travelled* badges. It isn't a race, so there's no ranking.
 
 ## The UniFly Discord
