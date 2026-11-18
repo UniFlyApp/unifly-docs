@@ -14,6 +14,7 @@ These pages cover what the map can do:
 - [Flights, pilots & badges](flights-pilots.md): the flight panel, timelines, landing rates, logbooks, pilot pages,
   ranks, badges, challenges and leaderboards.
 - [Every badge](badges.md): each badge, how to earn it and what counts.
+- [Importing your flights](imports.md): bringing your flights in from FSAirlines, Volanta, Elevatex, Fly UK or VATSIM.
 - [Events, tours & community](community.md): events, flight parties, group flights, tours, the destination of the week
   and the UniFly Discord bot.
 - [Streaming with UniFly](streaming.md): stream overlays for OBS, showing as live on Twitch, and UniFly Dispatch, our
@@ -35,6 +36,7 @@ Most of the map works without an account. Sign in with Discord from the 👤 but
 - **Make your pilot page your own** with a banner, your Discord picture, home airport, favourite aircraft and links.
 - **Save stream overlays** with links that never change.
 - **Make a flight party**, ask for an event, keep a hangar and join or start a virtual airline.
+- **[Import your flights](imports.md)** from other platforms into your logbook.
 
 Only your Discord ID (kept scrambled) and your name are used, never your email or your servers. Signing up also adds
 you to the UniFly Discord (Discord asks first). You can delete your account at any time from its settings.

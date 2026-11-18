@@ -17,7 +17,8 @@ Down the bottom right:
 | 🏆 Leaderboards | The leaderboards window |
 | 📅 Events | Upcoming events, results and tours (with a count of new events) |
 | 🏢 Virtual airlines | Browse, join or start a virtual airline (alpha) |
-| 🗺️ Map layers | Weather radar, clouds, wind, traffic heatmap and popular routes (a dot shows while one's on) |
+| 🗺️ Map layers | Weather radar, clouds, wind, traffic heatmap, popular routes, ocean tracks and the time machine (a dot shows while one's on) |
+| ♥ Donate | Support UniFly (opens PayPal). Its tip shows how far ahead UniFly's running costs are covered |
 | 👤 Account | Sign in, your account and pilot page, Preferences, light or dark, stream overlays |
 
 The zoom buttons and a clock sit at the top right. The clock shows your time setting with the other one under it
@@ -84,12 +85,15 @@ the bottom, or close the flight, to go back to the flat map.
 
 ## Airports
 
+Airports show as their code. Zoomed out, the busier airport's label wins where two would overlap, and the quieter ones
+appear as you zoom in.
+
 Tap an airport for its panel. It opens with a summary (the weather in a few words, the runway in use, the next sunrise
-or sunset, and flights coming and going) and four tabs:
+or sunset, flights coming and going, and who was **first to land** there today) and four tabs:
 
 - **Traffic:** arrivals and departures on a departure board (due times, from or to, type and status: en route,
   descending, approach, landed, taxiing, departed…), the next arrival with a countdown, and the aircraft parked there
-  from pilots' hangars and virtual airlines.
+  from pilots' hangars and virtual airlines, and today's [GA jobs](flights-pilots.md#challenges-and-goals) from there.
 - **Weather:** the latest report (METAR, with when it was issued and when the next is due), the forecast (TAF), and the
   sun: whether it's day, twilight or night there, and the next first light, sunrise, sunset and dark.
 - **Runways:** every runway end, best into the wind first, with its headwind or tailwind and crosswind and which one's
@@ -111,6 +115,8 @@ Zoom in to an active airport (or the one you've opened) and you'll see:
   from OpenStreetMap, so busy airports are covered best.
 - **3D windsocks** beside the runway in use, filling with the wind.
 - A **windsock** marker at arrival airports when zoomed out a little.
+- **Lights after dark:** where it's night, runways get white edge lights (and green and red across each end at busy
+  airports), taxiways green centre lights, and the bigger runways at busy airports approach lights and PAPIs.
 
 ### Historic airports
 
@@ -129,8 +135,20 @@ The 🗺️ button holds the layers you can lay over the map:
   (press **W**).
 - **🔥 Traffic heatmap:** where UniFly pilots have flown over the last 7 or 30 days. The brighter, the more time flown.
 - **🛫 Popular routes:** the most-flown routes on UniFly. Tap one for its route page.
+- **🌊 Ocean tracks:** today's North Atlantic Tracks, east in blue and west in orange, each with its letter. Tap one for
+  its waypoints and flight levels. Between one set and the next, the old ones stay on, faded and marked expired. Track
+  data from natTrak (VATSIM).
+- **🕰️ Time machine:** see [below](#the-time-machine).
 
 **Day/night shading** is in Preferences → Map.
+
+### The time machine
+
+🕰️ winds the map back. Pick a day in the last 90, drag through the hours or press play (1, 5 or 20 minutes a
+second), and everyone's flights move as they did, each with a short tail and its callsign. Tap a plane for who it was
+and where it was going. 🔗 copies a link to that exact minute, to share. Before positions were recorded every minute
+(14 November 2026), days are filled in from pilots' logbooks. **Back to live** puts the live map back. Pilots who've
+opted out aren't shown.
 
 ## Preferences
 
@@ -146,7 +164,7 @@ Open Preferences from the 👤 menu (or press **P**). Changes apply straight awa
 - **Units:** speed (kts, km/h, mph), distance (nm, km, mi), altitude (feet or metres), flight levels (automatic from
   each airport's transition altitude, above a fixed altitude, or never), pressure (hPa or inHg), airport codes (IATA
   or ICAO) and times (local or UTC). Climb and descent rates are always in feet per minute.
-- **You:** your UniFly nickname for Me mode, and your account.
+- **You:** your UniFly nickname for Me mode, *Who's near me* notes, *Race your own best*, and your account.
 - **About:** What's new, keyboard shortcuts, stream overlays, the [map status page](https://unifly.gg/status), the
   [press & creators page](https://unifly.gg/press), data credits, tips, and resetting the map's settings.
 
@@ -157,9 +175,26 @@ Light or dark panels are in the 👤 menu (or press **T**).
 Tell the map who you are and it marks your aircraft with ♦, adds the 🧑‍✈️ button to find yourself, and tells you your
 landing rate, personal bests and new badges. While you're flying, a **Your arrival** card at the top left shows your
 destination, distance, time to go and ETA, the likely runway with the wind on it, QNH, visibility and the weather.
+It also:
+
+- **Warns about crosswind:** amber when the crosswind on the likely runway (gusts included) is near your aircraft's
+  limit, red when it's over. A guide from the makers' demonstrated figures, not the book.
+- **Says who's near you:** a note when another pilot is within 20 nm of you in the air, or at the same airport on the
+  ground. Tap it to see them.
+- **Races your best:** with *Race your own best* on, your fastest flight on the same route flies alongside as a 👻
+  ghost (only on your map), and the card says how far ahead or behind you are.
+- **Nudges you on your goals** when one's nearly there and when it's done.
+- **Introduces a new type:** the first time you fly one, a card shows its crosswind limit, its cruise speed on UniFly,
+  how many pilots have flown it and how they land it.
 
 If you're signed in with your pilot linked, Me mode is set up for you. Otherwise type your UniFly nickname in
 Preferences → You.
+
+## The map in your language
+
+Use your browser's **Translate this page** (Chrome, Edge, Safari). Callsigns, airport codes, registrations, aircraft
+types, pilot names and figures are left as they are, and numbers and dates follow your browser's language (1.234 and
+16.11.2026 in German, say).
 
 ## Keyboard shortcuts
 

@@ -2,7 +2,7 @@
 
 # Badges
 
-There are 114 badges to earn on the live map, plus 11 mishaps just for fun and 4 hidden badges that stay a secret until someone earns them. Tap any badge on the map to see your progress, how rare it is and who earned it first, or open the badges window from the 👤 menu.
+There are 174 badges to earn on the live map, plus 13 mishaps just for fun and 6 hidden badges that stay a secret until someone earns them. Tap any badge on the map to see your progress, how rare it is and who earned it first, or open the badges window from the 👤 menu.
 
 Badges are worked out from your flights automatically. A few rules apply to all of them:
 
@@ -11,7 +11,7 @@ Badges are worked out from your flights automatically. A few rules apply to all 
 - **Badge points** (the Badges leaderboard): 1 for a badge, 2 bronze, 4 silver, 8 gold, 5 for a special flight and 3 for a hidden badge. Mishaps are worth nothing.
 - Special-flight landings at the difficult airports count at -175 fpm or gentler.
 
-Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#destination-of-the-week) · [Circuits](#circuits) · [Aircraft and flights](#aircraft-and-flights) · [Gliders](#gliders) · [Big aircraft, small airports](#big-aircraft-small-airports) · [Formation flying](#formation-flying) · [Events](#events) · [Leaderboards](#leaderboards) · [Landings](#landings) · [Special flights: famous routes](#special-flights-famous-routes) · [Special flights: difficult airports](#special-flights-difficult-airports) · [Mishaps](#mishaps-)
+Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#destination-of-the-week) · [Circuits](#circuits) · [Aircraft and flights](#aircraft-and-flights) · [Gliders](#gliders) · [Big aircraft, small airports](#big-aircraft-small-airports) · [Imported flights](#imported-flights) · [Formation flying](#formation-flying) · [Events](#events) · [Leaderboards](#leaderboards) · [Landings](#landings) · [Special flights: famous routes](#special-flights-famous-routes) · [Special flights: difficult airports](#special-flights-difficult-airports) · [Around the globe](#around-the-globe) · [Ocean tracks](#ocean-tracks) · [Time of day and the calendar](#time-of-day-and-the-calendar) · [Loyalty](#loyalty) · [Virtual airlines](#virtual-airlines) · [GA jobs](#ga-jobs) · [Badge collecting](#badge-collecting) · [Mishaps](#mishaps-)
 
 ## Flying
 
@@ -19,11 +19,15 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
 - 🎫 **Frequent flyer** *(bronze, 2 pts)*: Fly 25 flights.
 - 💯 **Century** *(silver, 4 pts)*: Fly 100 flights.
 - 🏆 **Road warrior** *(gold, 8 pts)*: Fly 500 flights.
+- 🎖️ **Thousand club** *(gold, 8 pts)*: Fly 1,000 flights.
+- 💎 **Lifer** *(gold, 8 pts)*: Fly 2,500 flights.
 - ⏱️ **10 hours** *(1 pt)*: Fly 10 hours.
 - 🕰️ **50 hours** *(bronze, 2 pts)*: Fly 50 hours.
 - 🏅 **100 hours** *(1 pt)*: Fly 100 hours.
 - ⌛ **250 hours** *(silver, 4 pts)*: Fly 250 hours.
 - 👑 **1,000 hours** *(gold, 8 pts)*: Fly 1,000 hours.
+- 🪙 **2,500 hours** *(gold, 8 pts)*: Fly 2,500 hours.
+- 🌟 **5,000 hours** *(gold, 8 pts)*: Fly 5,000 hours.
 - 📏 **10,000 miles** *(bronze, 2 pts)*: Fly 10,000 nm in total.
 - 🔄 **Around the world** *(silver, 4 pts)*: Fly 21,600 nm in total (once round the Earth).
 - 🛰️ **100,000 miles** *(gold, 8 pts)*: Fly 100,000 nm in total.
@@ -32,10 +36,16 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
   A day counts when you fly on it (UTC). Miss a day and the count starts again.
 - 🗓️ **Dedicated** *(silver, 4 pts)*: Fly on 30 days in a row.
 - 🔥 **Unstoppable** *(gold, 8 pts)*: Fly on 100 days in a row.
+- 📆 **Every day for a year** *(gold, 8 pts)*: Fly on 365 days in a row.
 - 🏃 **Marathon day** *(1 pt)*: Fly 12 hours in one day (UTC).
 
 ## Places
 
+- 🐦 **Early bird** *(bronze, 2 pts)*: Be the first to land at an airport on the day 10 times.
+
+  Land at an airport before anyone else on UniFly that day (UTC). Any airport counts, and each day starts again: early mornings and quiet airports are your friends.
+- 🥇 **First in** *(silver, 4 pts)*: Be the first to land at an airport on the day 50 times.
+- 🌅 **Dawn patrol** *(gold, 8 pts)*: Be the first to land at an airport on the day 100 times.
 - 📍 **Explorer** *(1 pt)*: Visit 10 different airports.
 
   An airport counts when you land there, flown in from another airport 50 nm or more away (or 50 nm or more flown from one at least 30 nm away). Circuits, hops between nearby airports and take-offs don't count.
@@ -44,11 +54,15 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
 - 🧳 **Jet setter** *(silver, 4 pts)*: Visit 100 different airports.
 - 🌏 **Been everywhere** *(gold, 8 pts)*: Visit 250 different airports.
 - 📚 **Atlas** *(gold, 8 pts)*: Visit 500 different airports.
+- 🧾 **Cartographer** *(gold, 8 pts)*: Visit 1,000 different airports.
+- 🌌 **Omnipresent** *(gold, 8 pts)*: Visit 2,500 different airports.
 - 🛂 **Border hopper** *(bronze, 2 pts)*: Visit airports in 10 countries.
 
   A country counts when you land at one of its airports, flown in from another airport 50 nm or more away (or 50 nm or more flown from one at least 30 nm away).
 - 📘 **Seen the world** *(silver, 4 pts)*: Visit airports in 25 countries.
 - 🎌 **Citizen of the world** *(gold, 8 pts)*: Visit airports in 50 countries.
+- 🤝 **Diplomat** *(gold, 8 pts)*: Visit airports in 75 countries.
+- 🛃 **Passport full** *(gold, 8 pts)*: Visit airports in 100 countries.
 - 🧭 **Six continents** *(1 pt)*: Visit airports on 6 continents.
 
   A continent counts when you land at one of its airports, flown in from another airport 50 nm or more away (or 50 nm or more flown from one at least 30 nm away).
@@ -115,6 +129,8 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
   Each aircraft type counts once, by its ICAO code (A320 and A20N are two types; two A320 liveries are one).
 - 🛩️ **Type rated** *(silver, 4 pts)*: Fly 10 different aircraft types.
 - 🏗️ **Hangar full** *(gold, 8 pts)*: Fly 20 different aircraft types.
+- 🧰 **Type fanatic** *(gold, 8 pts)*: Fly 30 different aircraft types.
+- 🏛️ **Museum piece** *(gold, 8 pts)*: Fly 50 different aircraft types.
 - 🔀 **Sim hopper** *(1 pt)*: Fly in 2 different simulators.
 
   Each simulator counts once: MSFS 2020, MSFS 2024, X-Plane and Prepar3D are all different.
@@ -140,6 +156,25 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
   A widebody (747, 777, A330 and the like) landing at an airport whose longest runway is under 6,000 ft. Each airport counts once.
 - 🫣 **Tight squeeze** *(bronze, 2 pts)*: Land a widebody at 5 different airports with runways under 6,000 ft.
 - 🙈 **Places I landed my A380 where I shouldn't have** *(silver, 4 pts)*: Land a widebody at 10 different airports with runways under 6,000 ft.
+
+## Imported flights
+
+- 📦 **Back catalogue** *(1 pt)*: Bring your flights in from another platform (FSAirlines, Volanta, Elevatex, Fly UK or VATSIM), approved by the UniFly Team.
+- 🚀 **High flyer** *(1 pt)*: Reach FL410 or higher.
+- 🐇 **Short hop** *(1 pt)*: Complete a flight of under 30 minutes.
+- 🌍 **Long haul** *(1 pt)*: Complete a flight of 8 hours or more.
+- 🌒 **Ultra long haul** *(1 pt)*: Complete a flight of 14 hours or more.
+- 🌙 **Night owl** *(1 pt)*: Take off or land in the dark.
+
+  Dark means the sun is more than 6° below the horizon where you took off or landed.
+- 🦉 **Night flyer** *(1 pt)*: Fly 10 flights in the dark.
+- 🌃 **All-nighter** *(1 pt)*: Take off and land in the dark, on the same flight.
+- 🌅 **Early bird** *(1 pt)*: Take off between 04:00 and 06:00 local time.
+
+  Local time where you take off, worked out from the sun.
+- 👥 **Group arrival** *(1 pt)*: Land within 5 minutes of another pilot at the same airport.
+
+  Fly together! Another pilot has to land at the same airport within 5 minutes of you.
 
 ## Formation flying
 
@@ -183,6 +218,8 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
   Measured at touchdown. Sped-up, teleported or slewed landings don't count.
 - 🥐 **Butter chef** *(silver, 4 pts)*: Land at -60 fpm or gentler 10 times.
 - 🏭 **Butter factory** *(gold, 8 pts)*: Land at -60 fpm or gentler 50 times.
+- ⛰️ **Butter mountain** *(gold, 8 pts)*: Land at -60 fpm or gentler 100 times.
+- 🐘 **Gentle giant** *(silver, 4 pts)*: Land a widebody at -60 fpm or gentler.
 - 🪶 **Feather** *(1 pt)*: Land at -30 fpm or gentler.
 - 🎯 **Smooth operator** *(1 pt)*: Land at -100 fpm or gentler 5 times in a row.
 
@@ -200,6 +237,7 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
 
   Worked out from the airport's real-world weather report when you landed and the runway you landed on. The landing has to be measured at -600 fpm or gentler.
 - 🌪️ **Crosswind master** *(gold, 8 pts)*: Land with a crosswind of 25 kt or more.
+- 🦀 **Crab master** *(gold, 8 pts)*: Land at -100 fpm or gentler with a crosswind of 20 kt or more.
 - 🍃 **Gusty** *(1 pt)*: Land in gusts of 30 kt or more.
 
   From the airport's real-world weather report when you landed. The landing has to be measured at -600 fpm or gentler.
@@ -275,6 +313,110 @@ Jump to: [Flying](#flying) · [Places](#places) · [Destination of the week](#de
 - 🐧 **End of the world** *(special flight, 5 pts)*: Land at Ushuaia (SAWH) at -175 fpm or gentler.
 
   Ushuaia in Argentina, the southernmost city in the world: approaches squeeze between the Andes and the Beagle Channel, often in strong winds.
+- 🎾 **Grand slam** *(gold, 8 pts)*: Earn every difficult airport badge above.
+
+  Lukla, Paro, Madeira, Gibraltar, St Maarten, Saba, St Barths, Courchevel, Innsbruck, Aspen, Queenstown, Kai Tak, Barra, Daocheng, Svalbard and Ushuaia: all of them.
+
+## Around the globe
+
+- 🌍 **Circumnavigator** *(gold, 8 pts)*: Fly all the way round the world (across every line of longitude) within 30 days.
+
+  Your landed flights over any 30 days, joined up, have to pass every line of longitude (all 360°) between them: east or west, any route, any aircraft. Teleported and slewed flights don't count.
+- 🥢 **Antipodes** *(silver, 4 pts)*: Land within 500 nm of the point on the other side of the Earth from your most-visited airport.
+
+  The antipode is the exact opposite point on the globe (London's is in the sea off New Zealand). Your most-visited airport is the one you've landed at most, flown in from 50 nm or more away.
+- 🔤 **Alphabet soup** *(gold, 8 pts)*: Land in 20 different ICAO regions (the first letter of the airport code).
+
+  An airport code's first letter is its part of the world: E northern Europe, K the USA, L southern Europe, Y Australia, Z China and so on. Only four-letter ICAO codes count.
+- 🤿 **Below sea level** *(1 pt)*: Land at an airport below sea level.
+
+  A few airports are below sea level, such as Amsterdam Schiphol (-11 ft) and Bar Yehuda by the Dead Sea (-1,266 ft). Flown in from 50 nm or more away.
+- 🕰️ **Prime meridian** *(1 pt)*: Fly across the Greenwich meridian (0° longitude).
+
+  Take off on one side of 0° longitude (through Greenwich) and land on the other, for example London Heathrow to Paris.
+- 🌡️ **Hot and high** *(silver, 4 pts)*: Land at an airport over 5,000 ft when it's 30 °C or hotter.
+
+  From the airport's real-world weather report when you landed. Hot air and high ground both make for long take-off runs and fast landings.
+- ⛈️ **Storm chaser** *(silver, 4 pts)*: Land with thunderstorms or snow in the airport's weather report.
+
+  From the airport's real-world weather report when you landed: thunderstorms (TS) or snow (SN), at the airport or close by.
+- ⛽ **Ferry pilot** *(gold, 8 pts)*: Fly 1,000 nm or more in one go in a single-engine piston.
+
+  Single-engine piston aircraft such as a Cessna 172, a Cirrus SR22 or a Piper Cherokee. Real ferry pilots fly them across oceans with extra tanks.
+
+## Ocean tracks
+
+- 🛤️ **Track follower** *(1 pt)*: Fly a whole North Atlantic Track while it's active.
+
+  The day's North Atlantic Tracks are on the map's 🌊 layer. Fly the ocean part of one (every point on it, within 30 nm) while it's valid, in its direction. They change each day: westbound ones are lettered A, B, C… and eastbound ones Z, Y, X…
+- ↔️ **Both ways** *(bronze, 2 pts)*: Fly an eastbound and a westbound North Atlantic Track.
+- ⬅️ **Westbound set** *(silver, 4 pts)*: Fly 5 different westbound North Atlantic Track letters.
+
+  Westbound tracks are lettered from A (the most northerly) and come out each morning; each letter counts once, whichever day you fly it.
+- ➡️ **Eastbound set** *(silver, 4 pts)*: Fly 5 different eastbound North Atlantic Track letters.
+
+  Eastbound tracks are lettered back from Z and come out each evening; each letter counts once, whichever day you fly it.
+
+## Time of day and the calendar
+
+- 🌇 **Sunset landing** *(1 pt)*: Touch down within 10 minutes of sunset.
+
+  Sunset where you land (the sun dipping below the horizon), worked out from the sun: 10 minutes either side.
+- 🌅 **Sunrise take-off** *(1 pt)*: Take off within 10 minutes of sunrise.
+
+  Sunrise where you take off (the sun coming over the horizon), worked out from the sun: 10 minutes either side.
+- 😴 **Red-eye** *(1 pt)*: Take off between 22:00 and 02:00 and land between 05:00 and 08:00 (local time).
+
+  An overnight flight: local times (from the sun) where you take off and where you land.
+- 🛋️ **Weekend warrior** *(silver, 4 pts)*: Fly on both days of 4 weekends in a row.
+
+  Saturday and Sunday (UTC), both flown, four weekends running. Miss a day and the count starts again.
+- 🎄 **Christmas flight** *(1 pt)*: Fly on Christmas Day.
+
+  Take off or land on 25 December (UTC). Only on the day: if you miss it, there's next year.
+- 🎆 **New Year in the air** *(silver, 4 pts)*: Be in the air at midnight (UTC) on New Year's Eve.
+
+  Airborne as the clock strikes midnight UTC going into 1 January. Only on the night: if you miss it, there's next year.
+- 🎃 **Spooky flight** *(1 pt)*: Fly on Halloween (31 October).
+
+  Take off or land on 31 October (UTC). Only on the day: if you miss it, there's next year.
+
+## Loyalty
+
+- 🏡 **Local** *(silver, 4 pts)*: Land at the same airport 50 times.
+
+  Landings flown in from another airport 50 nm or more away, the same as visits for the places badges.
+- 🎓 **Type expert** *(gold, 8 pts)*: Fly 100 hours in one aircraft type.
+
+  Hours in one type by its ICAO code (A320 and A20N are two types).
+- 🔧 **Loyal to the airframe** *(silver, 4 pts)*: Fly 50 hours in one registered aircraft (from your hangar or an airline's).
+
+  One aircraft by its registration: one of your hangar's or your airline's fleet.
+
+## Virtual airlines
+
+- 🧑‍✈️ **Line pilot** *(bronze, 2 pts)*: Fly 25 flights for a virtual airline.
+- 🏅 **Airline veteran** *(gold, 8 pts)*: Fly 100 flights for a virtual airline.
+- ⏱️ **Like clockwork** *(silver, 4 pts)*: Fly 10 timetable flights in a row on time.
+
+  Timetable flights only, each on time (as the airline's reports count it). A late one starts the count again; other flights don't.
+- 🚚 **Positioning crew** *(1 pt)*: Fly 10 ferry flights for a virtual airline.
+- 📋 **Contractor** *(silver, 4 pts)*: Fly 10 contract flights for a virtual airline.
+
+## GA jobs
+
+- 🧰 **Odd job** *(1 pt)*: Do a job from the GA jobs board.
+
+  The jobs board is on your pilot page's Goals tab (and each airport's Traffic tab): fly one in a light aircraft or a helicopter, from its airport to its destination, the same day (UTC). Each job counts once.
+- 🛠️ **Handyman** *(silver, 4 pts)*: Do 10 jobs from the GA jobs board.
+- 🏕️ **Bush operator** *(gold, 8 pts)*: Do 50 jobs from the GA jobs board.
+
+## Badge collecting
+
+- 🗃️ **Badge collector** *(silver, 4 pts)*: Earn 50 badges (mishaps don't count).
+
+  Every badge counts once, hidden ones too. Mishaps are just for fun and don't count.
+- 🏵️ **Completionist** *(gold, 8 pts)*: Earn 100 badges (mishaps don't count).
 
 ## Mishaps 🙈
 
@@ -287,11 +429,13 @@ Just for fun, worth no points, and not counted in your badge total.
 - 🐰 **Bunny hop**: Bounce a landing back into the air.
 - 🛣️ **Taxiway special**: Touch down beside the runway (a taxiway, perhaps?).
 - 🤷 **Close enough**: Land at the wrong airport, a few miles from where your plan was going.
-- 🖥️ **Desktop crash**: Vanish from UniFly mid-flight and not come back.
+- 🖥️ **Desktop crash**: Vanish from UniFly mid-flight and not come back within 30 minutes.
 - 💨 **Downwind dash**: Land with a tailwind of 10 kt or more.
-- 🏎️ **Need for speed**: Taxi faster than 50 kts.
+- 🏎️ **Need for speed**: Taxi faster than 50 kts, away from the runways.
 - 🎲 **Third time lucky**: Go around three times on one flight, then land.
+- 🗺️ **Scenic route**: Fly more than twice the direct distance between two airports.
+- 🤡 **Muppet**: Land with the gear up, harder than -1,000 fpm, and the tanks empty: all three at once.
 
 ## Hidden badges
 
-There are 4 hidden badges. They aren't listed until you earn one, so you'll have to find them yourself.
+There are 6 hidden badges. They aren't listed until you earn one, so you'll have to find them yourself.

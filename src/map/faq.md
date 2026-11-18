@@ -74,6 +74,12 @@ callsign that isn't your airline's. See
 - Check *Sample data in the links too* isn't ticked in the overlay maker if you want your live flight.
 - Saved overlays update themselves, so there's no need to refresh the Browser source in OBS.
 
+## My imported flights aren't showing
+
+An import shows for everyone once the UniFly Team has approved it: your account says whether it's waiting, approved or
+not approved (and why). Imported flights never count for badges or leaderboards. See
+[Importing your flights](imports.md).
+
 ## The map is slow on my computer
 
 - Set **3D aircraft** to Off in Preferences → Aircraft.

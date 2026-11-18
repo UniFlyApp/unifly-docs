@@ -20,6 +20,9 @@ once they're in the air.
 **Asking for an event:** signed in, you can ask the UniFly Team for an event of your own. Once they approve it, it's
 listed for everyone with you as the host.
 
+**Live landing contest:** while an event is on, its page shows the smoothest landings so far (each pilot's gentlest,
+at the event's arrival if it has one).
+
 **Results:** once an event's over it has results: a podium for the smoothest landings, first there, the quickest and
 longest flights, the most flown type, and everyone who flew it. Open 🏆 Results in the Events window for the last 30
 days. Sped-up, teleported or slewed landings don't make the podium.
@@ -45,6 +48,10 @@ Caribbean, Japan and the Himalayas. Find them with 🧭 Tours in the Events wind
 Goals tab. Join from your own pilot page and fly the legs in order, at your own pace. There are badges for finishing 1,
 5 and 15 tours.
 
+**Seasonal tours** are only around in their season and come back each year: Christmas Markets and Northern Lights in
+winter, Santa's Delivery Round on Christmas Eve and Day, Haunted Halloween, Cherry Blossom in spring and Greek Island
+Summer.
+
 ## Destination of the week
 
 Each week (Monday to Sunday, UTC) there's a city or region to fly to, such as London, Tokyo, Cape Town, Reykjavík or
@@ -53,6 +60,13 @@ destination. The area is shaded on the map. *Hide for this week* tucks it into t
 
 Land there during its week (having flown at least 50 nm, from an airport at least 30 nm away) for a **passport stamp**. Stamps add up to the
 *Tourist*, *Sightseer*, *Seasoned traveller* and *Well travelled* badges. It isn't a race, so there's no ranking.
+
+## Supporting UniFly
+
+UniFly is free and not-for-profit. The ♥ corner button opens PayPal to make a donation, which helps pay for the
+servers; its tip shows how far ahead the running costs are covered. Donators show in gold on the map, get three ♥
+banners for their pilot page and the full trail of their last 50 flights, and can put their name on the supporters
+wall (Preferences → About; switch it on from your account page).
 
 ## The UniFly Discord
 

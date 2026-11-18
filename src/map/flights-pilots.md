@@ -5,7 +5,8 @@
 Tap an aircraft to open its flight panel. The header has the callsign, aircraft and route. Underneath:
 
 - **Flight details:** altitude, vertical speed, ground speed and heading (with the aircraft in a compass ring), the
-  flight's stage, time to go and ETA. On the ground it says exactly where the aircraft is: on stand 501, pushing back,
+  flight's stage, time to go and ETA, and the **squawk** (with what the well-known codes mean: 7000 VFR, 7700
+  emergency…) for pilots on newer UniFly clients. On the ground it says exactly where the aircraft is: on stand 501, pushing back,
   taxiing out, holding short of 27L, lined up, on the take-off or landing roll, crossing or backtracking a runway, or
   taxiing in.
 - **Arrival:** distance and time to go, the **top of descent** ("TOD in 42 nm · about 7 min"), and whether it'll land
@@ -17,7 +18,9 @@ Tap an aircraft to open its flight panel. The header has the callsign, aircraft 
 - **Flight timeline:** everything that's happened so far: pushback, taxi, take-off, step climbs, cruise level,
   holds, go-arounds, the landing and taxi in.
 - **Filed route:** the SimBrief route, drawn on the map. With a route filed, distance and time to go follow the route
-  (arrival and all), so they match your sim's GPS closely.
+  (arrival and all), so they match your sim's GPS closely. The **SID** (green) and **STAR** (amber) are picked out and
+  named on the map, and listed at the top of the card. Off the end of the STAR a dashed *Vectors* line leads to a 10 nm
+  final onto the planned runway. They're drawn waypoint to waypoint, so turns aren't exact.
 - **Pilot strip:** the pilot's average landing, flights, hours and badges, and **View profile** for their pilot page.
 
 Each section folds to one line with a short summary, and the map remembers which ones you keep open. Other buttons:
@@ -59,7 +62,9 @@ UniFly records each flight automatically. As well as take-offs and landings, the
 
 ## Landings
 
-Every landing gets a rate and a grade, shown on the aircraft's label for a minute after touchdown:
+Every landing gets a rate and a grade, shown on the aircraft's label for a minute after touchdown. With newer UniFly
+clients the rate is the one your sim measured at touchdown, so it matches other landing-rate apps; otherwise the map
+works it out from its readings.
 
 | Grade | Touchdown rate |
 |---|---|
@@ -87,20 +92,26 @@ Tap **View profile** (or a pilot in any list) to open their pilot window. At the
 team or donator badge, Twitch channel if they're live, home airport, favourite aircraft and links. 🪪 makes a **pilot
 card** picture of their stats to copy into Discord.
 
-- **Overview:** their stats (average and best landing, flights, hours), *Nearly there* (badges close to being earned)
-  and recent flights.
+- **Overview:** their stats (average and best landing, flights, hours, with [imported](imports.md) flights and hours
+  underneath if they show them), *Flying days* (a square for every day of the last year, with their streak and their
+  best), *Nearly there* (badges close to being earned) and recent flights. On your own page, **Where should I fly?**
+  suggests up to five airports in reach of your aircraft and the time you've got, from where you last landed (places
+  you've never been first), each with Fly this and On the map.
 - **Landings:** the last 60 landing rates as a chart, and the best and average landing per aircraft type.
 - **Badges:** see [Badges](#badges) below.
 - **Logbook:** every flight they've ever flown on UniFly, one line each. Tap one for its details, landing, timeline,
   **Show on map** (with the filed route as a dotted line for the last 10 flights), Copy for Discord, the route page, a
   landing card, or 🚩 Report. Search covers every flight. 🗺 **Plot routes** draws every route they've flown in the
-  last 30 days, 90 days, year or all time. Logbooks can be downloaded as CSV.
-- **Goals:** this month's challenges and tours, country challenges and passport stamps.
-- **Places:** the airports they've visited on a map, and their trends (hours each week for the last 26 weeks, and
+  last 30 days, 90 days, year or all time. 🖼️ **Flight card** shows a flight as a picture to copy into Discord. Logbooks
+  can be downloaded as CSV or opened as a **PDF** to print or save. Imported flights have their own list.
+- **Goals:** your own goals for the month, this month's challenges and tours, GA jobs near you, country challenges and
+  passport stamps.
+- **Places:** the airports they've visited on a map (and how many more are in their imported flights), and their trends (hours each week for the last 26 weeks, and
   whether their landings are getting softer).
 - **Hangar:** their aircraft (see [Virtual airlines & hangars](airlines-hangars.md)).
 
-Every flight is kept in the logbook for good. Trails are kept for the last 10. Logbooks are public.
+Every flight is kept in the logbook for good. The full trail is kept for the last 10 flights (50 for supporters), and a
+simplified path for older ones, so Show on map works for every flight. Logbooks are public.
 
 ### Ranks
 
@@ -124,6 +135,9 @@ counts. They cover things like:
   seaplane bases.
 - **Aircraft:** types flown, gliders, helicopters, widebodies at small airports, sims flown.
 - **Flying together:** formation flying, events, tours, challenges, route records, special missions, circuits.
+- **First to land:** being the first to land at an airport on the day, 10, 50 and 100 times.
+- **Big ladders and collections:** up to 2,500 flights, 5,000 hours, 2,500 airports and 100 countries, a year's
+  streak, and collecting 50 and 100 badges.
 - **Hidden badges**, which stay a secret until you earn one.
 - **Mishaps 🙈:** just for fun and worth no points: *Arrival by gravity*, *Lawn dart*, *Overrun*, *Bunny hop*,
   *Desktop crash* and more.
@@ -138,6 +152,12 @@ distance.
 
 ## Challenges and goals
 
+- **Your goals:** on your own Goals tab, set up to four targets for the month (hours, flights, distance, new airports,
+  countries, types, smooth landings, night landings or circuits). Progress starts again on the 1st.
+- **GA jobs:** small jobs for light aircraft and helicopters, new every day: a doctor out to an island strip, supplies,
+  the mail run, a few passengers, a survey or sightseeing loop, and search and rescue for helicopters. Your Goals tab
+  lists the ones near where you last landed, and each airport's Traffic tab its own. Fly one that day and it counts by
+  itself, with badges for doing them.
 - **Monthly challenges:** four new challenges each month (new airports, a long leg, a gentle landing, so many hours…),
   with badges for finishing them.
 - **Country challenges:** the continents and countries you've flown to, and how many of each country's main airports
@@ -157,6 +177,9 @@ board, for today, this week, this month or all time. *See all ›* opens a whole
 - **Badge points:** 1 a badge, more for bronze, silver, gold, special flights and hidden badges. Mishaps don't count.
 - **Pilot of the day, week and month:** most hours flown. The pilot of the month gets a gold badge.
 - **The week so far:** a recap of the week on UniFly.
+
+[UniFly in numbers](https://unifly.gg/numbers.php), linked from the leaderboards, shows how much flying happens on
+UniFly: flights, pilots and hours day by day, the busiest airports, the most flown aircraft and which sims pilots use.
 
 Pilots who have opted out of the records don't appear.
 
